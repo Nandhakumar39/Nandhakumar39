@@ -3,7 +3,7 @@ I'm doing bachelor degree on Computer Science and Engineering,<br>I'm interested
 
 
 ## 🌐 Socials:
-[!
+[
 [LinkedIn] : [NANDHAKUMAR S](https://www.linkedin.com/in/nandha-kumar-s39/)]
 
 # 💻 Tech Stack:
